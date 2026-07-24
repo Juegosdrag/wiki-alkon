@@ -1,7 +1,6 @@
 # Manual de Argentum Online v0.13.X
 
 Manual del juego para la version v0.13.X
-
 Wiki for game Argentum Online v0.13.X
 
 
